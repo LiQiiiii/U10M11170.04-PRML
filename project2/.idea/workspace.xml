@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b65444d-db1d-49c5-a926-19b2e062752d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="29hhvhSjXFbW6gGVwj3TBknb5BI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../code" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\61060\Desktop\NPU-LQ\大三下\模式识别与机器学习\工程2+2019302863+李奇\project2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="30feature-3model (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/30feature-3model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="30feature-3model" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/knn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="32feature-3model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/32feature-3model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="model_OnePath" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model_OnePath.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.model_OnePath" />
+        <item itemvalue="Python.32feature-3model" />
+        <item itemvalue="Python.30feature-3model (1)" />
+        <item itemvalue="Python.30feature-3model" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b65444d-db1d-49c5-a926-19b2e062752d" name="Default Changelist" comment="" />
+      <created>1653571456226</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653571456226</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="107" key="#knn" timestamp="1653672296285">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="463" y="107" key="#knn/0.0.1504.963@0.0.1504.963" timestamp="1653672296285" />
+    <state x="533" y="237" key="FileChooserDialogImpl" timestamp="1653735090349">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="533" y="237" key="FileChooserDialogImpl/0.0.1504.963@0.0.1504.963" timestamp="1653735090349" />
+    <state width="1483" height="204" key="GridCell.Tab.0.bottom" timestamp="1654251260623">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1483" height="204" key="GridCell.Tab.0.bottom/0.0.1504.963@0.0.1504.963" timestamp="1654251260623" />
+    <state width="1483" height="204" key="GridCell.Tab.0.center" timestamp="1654251260623">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1483" height="204" key="GridCell.Tab.0.center/0.0.1504.963@0.0.1504.963" timestamp="1654251260623" />
+    <state width="1483" height="204" key="GridCell.Tab.0.left" timestamp="1654251260623">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1483" height="204" key="GridCell.Tab.0.left/0.0.1504.963@0.0.1504.963" timestamp="1654251260623" />
+    <state width="1483" height="204" key="GridCell.Tab.0.right" timestamp="1654251260623">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1483" height="204" key="GridCell.Tab.0.right/0.0.1504.963@0.0.1504.963" timestamp="1654251260623" />
+    <state width="1483" height="317" key="GridCell.Tab.1.bottom" timestamp="1654172735236">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1483" height="317" key="GridCell.Tab.1.bottom/0.0.1504.963@0.0.1504.963" timestamp="1654172735236" />
+    <state width="1483" height="317" key="GridCell.Tab.1.center" timestamp="1654172735236">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1483" height="317" key="GridCell.Tab.1.center/0.0.1504.963@0.0.1504.963" timestamp="1654172735236" />
+    <state width="1483" height="317" key="GridCell.Tab.1.left" timestamp="1654172735235">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1483" height="317" key="GridCell.Tab.1.left/0.0.1504.963@0.0.1504.963" timestamp="1654172735235" />
+    <state width="1483" height="317" key="GridCell.Tab.1.right" timestamp="1654172735236">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1483" height="317" key="GridCell.Tab.1.right/0.0.1504.963@0.0.1504.963" timestamp="1654172735236" />
+    <state x="254" y="124" key="SettingsEditor" timestamp="1654171831466">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="254" y="124" key="SettingsEditor/0.0.1504.963@0.0.1504.963" timestamp="1654171831466" />
+    <state x="421" y="337" width="631" height="350" key="com.intellij.ide.util.TipDialog" timestamp="1654173882695">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="421" y="337" width="631" height="350" key="com.intellij.ide.util.TipDialog/0.0.1504.963@0.0.1504.963" timestamp="1654173882695" />
+    <state x="428" y="131" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1653653963373">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="428" y="131" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1504.963@0.0.1504.963" timestamp="1653653963373" />
+    <state x="635" y="227" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1653574030803">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="635" y="227" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1504.963@0.0.1504.963" timestamp="1653574030803" />
+    <state x="415" y="206" width="672" height="678" key="search.everywhere.popup" timestamp="1654170882349">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="415" y="206" width="672" height="678" key="search.everywhere.popup/0.0.1504.963@0.0.1504.963" timestamp="1654170882349" />
+  </component>
+</project>
